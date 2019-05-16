@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template-webpack.
@@ -62,3 +63,20 @@ Then, from within your project folder:
 npm run build
 surge public
 ```
+=======
+# tailwind-template
+
+A [Svelte](svelte.dev) template with [Tailwind CSS](tailwindcss.com), with branches for Rollup and webpack. To clone it and get started:
+
+```bash
+# for Rollup
+npx degit Axelen123/svelte-tailwind-template#rollup my-app
+# for webpack
+npx degit Axelen123/svelte-tailwind-template#webpack my-app
+cd my-app
+npm install # or yarn!
+npm run dev
+```
+
+Open up [localhost:5000](http://localhost:5000) (or [localhost:8080](http://localhost:8080) if using webpack)
+>>>>>>> 560ea634eca14df8737e683a7d82db86447eee09
