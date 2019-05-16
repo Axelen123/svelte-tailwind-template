@@ -1,6 +1,6 @@
 # tailwind-template
 
-A [Svelte](svelte.dev) template with [Tailwind CSS](tailwindcss.com), with branches for Rollup and webpack. To clone it and get started:
+A [Svelte](https://svelte.dev) template with [Tailwind CSS](https://tailwindcss.com), with branches for Rollup and webpack. To clone it and get started:
 
 ```bash
 # for Rollup
